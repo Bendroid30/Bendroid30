@@ -8,7 +8,7 @@ Llevo dos años aprendiendo una gran variedad de lenguajes y programas para la c
 
 * 🌍  I'm based in Torrevieja
 * ✉️  You can contact me at [raullera715@gmail.com](mailto:raullera715@gmail.com)
-* 🧠  I'm learning Dart
+* 🧠  I'm blender and unity (C#)
 
 ### Skills
 
